@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/context-contqact-manager/static/css/main.afd7172b.chunk.css",
+    "main.js": "/context-contqact-manager/static/js/main.98f11f2f.chunk.js",
+    "main.js.map": "/context-contqact-manager/static/js/main.98f11f2f.chunk.js.map",
+    "runtime-main.js": "/context-contqact-manager/static/js/runtime-main.845d1c23.js",
+    "runtime-main.js.map": "/context-contqact-manager/static/js/runtime-main.845d1c23.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/context-contqact-manager/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e1feb616.chunk.js": "/context-contqact-manager/static/js/2.e1feb616.chunk.js",
+    "static/js/2.e1feb616.chunk.js.map": "/context-contqact-manager/static/js/2.e1feb616.chunk.js.map",
+    "static/js/3.b6e42998.chunk.js": "/context-contqact-manager/static/js/3.b6e42998.chunk.js",
+    "static/js/3.b6e42998.chunk.js.map": "/context-contqact-manager/static/js/3.b6e42998.chunk.js.map",
+    "index.html": "/context-contqact-manager/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/context-contqact-manager/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/context-contqact-manager/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.e1feb616.chunk.js.LICENSE.txt": "/context-contqact-manager/static/js/2.e1feb616.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.845d1c23.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e1feb616.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.98f11f2f.chunk.js"
+  ]
+}
